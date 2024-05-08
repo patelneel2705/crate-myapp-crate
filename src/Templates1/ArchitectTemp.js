@@ -15,7 +15,7 @@ function ArchitectTemp() {
     return (
         <Container>
             <Image src={Image1} fluid />
-
+            <h4> NeeL </h4>
             <label className="mt-5">  Projects </label>
             <hr />
             <Row className="mt-4">
