@@ -1,0 +1,21 @@
+body{
+    background: lightblue;
+}
+h1{
+    text-align: center;
+}
+.formInput{
+    text-align: center;
+}
+.clsbutton{
+    display: flex;
+    margin: auto;
+    margin-top: 45px;
+    padding: 16px 32px ;
+}
+
+.clsbutton:hover{
+    border: none;
+    background: linear-gradient(lightcoral,lightsalmon);
+    color: #fff;
+}
